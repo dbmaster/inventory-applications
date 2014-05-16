@@ -3,7 +3,7 @@
     <tool id="inventory-applications"  title="Inventory Applications" projectTypes="inventory">
         <description>Displays contacts for all applications</description>
 
-        <output script="application-contacts.groovy" type="html" />
+        <output script="inventory-applications.groovy" type="html" />
     </tool>
 
 </tools>
